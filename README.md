@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou Arthur Othero, Desenvolvedor Full Stack em formação e estudante de Engenharia de Software na UniBH.
+Sou Arthur Othero, desenvolvedor Full Stack e estudante de Engenharia de Software na UniBH.
 
 Atualmente atuo no desenvolvimento de aplicações web corporativas utilizando C#, .NET, Blazor, Angular e SQL Server.
 
