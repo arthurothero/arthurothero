@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**arthurothero/arthurothero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Arthur Othero, Desenvolvedor Full Stack em formação e estudante de Engenharia de Software na UniBH.
 
-Here are some ideas to get you started:
+Atualmente atuo no desenvolvimento de aplicações web corporativas utilizando C#, .NET, Blazor, Angular e SQL Server.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- C#
+- .NET
+- ASP.NET Core
+- Blazor
+- Angular
+- SQL Server
+- PostgreSQL
+- Entity Framework
+- Git
+- Scrum
+
+## Atualmente estudando
+
+- Arquitetura de Software
+- Domain-Driven Design (DDD)
+- Clean Code
+- APIs REST
+
+## Contato
+
+- LinkedIn: www.linkedin.com/in/arthurfekete
