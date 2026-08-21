@@ -1,10 +1,12 @@
-# Olá! 👋
+# Olá! Eu sou Arthur Othero 👋
 
-Sou Arthur Othero, desenvolvedor Full Stack e estudante de Engenharia de Software na UniBH.
+Sou desenvolvedor Full Stack e estudante de Engenharia de Software na UniBH.
 
-Atualmente atuo no desenvolvimento de aplicações web corporativas utilizando C#, .NET, Blazor, Angular e SQL Server.
+Atualmente, trabalho no desenvolvimento de aplicações web corporativas, atuando principalmente com C#, .NET, Blazor, Angular e bancos de dados relacionais.
 
-## Tecnologias
+Tenho interesse em criar soluções eficientes, organizadas e escaláveis, sempre buscando evoluir meus conhecimentos em arquitetura de software e boas práticas de desenvolvimento.
+
+## 💻 Tecnologias e ferramentas
 
 - C#
 - .NET
@@ -14,16 +16,25 @@ Atualmente atuo no desenvolvimento de aplicações web corporativas utilizando C
 - SQL Server
 - PostgreSQL
 - Entity Framework
+- APIs REST
 - Git
 - Scrum
 
-## Atualmente estudando
+## 📚 Atualmente estudando
 
 - Arquitetura de Software
 - Domain-Driven Design (DDD)
 - Clean Code
-- APIs REST
+- Desenvolvimento de APIs REST
+- Boas práticas e padrões de projeto
 
-## Contato
+## 🎯 Objetivos
 
-- LinkedIn: www.linkedin.com/in/arthurfekete
+- Aprimorar minhas habilidades como desenvolvedor Full Stack
+- Desenvolver aplicações robustas e escaláveis
+- Aplicar boas práticas de arquitetura e qualidade de código
+- Contribuir para projetos que gerem impacto real
+
+## 📫 Contato
+
+- LinkedIn: [linkedin.com/in/arthurfekete](https://www.linkedin.com/in/arthurfekete)
