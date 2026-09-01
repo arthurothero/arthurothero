@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="./README.md">Português</a> |
+  <a href="./README.pt-BR.md">English</a>
+</p>
+
 # Olá! Eu sou o Arthur Othero
 
 **Desenvolvedor Full Stack | C# • .NET • Angular • Blazor**
@@ -6,7 +11,7 @@ Sou desenvolvedor Full Stack e estudante de Engenharia de Software na UniBH.
 
 Atualmente, trabalho no desenvolvimento de aplicações web corporativas, atuando principalmente com **C#, .NET, Blazor, Angular e bancos de dados relacionais**.
 
-Tenho interesse em arquitetura de software, qualidade de código e desenvolvimento de aplicações escaláveis.
+Tenho interesse principalmente em arquitetura de software, qualidade de código e desenvolvimento de aplicações escaláveis.
 
 ## Tecnologias e ferramentas
 
@@ -18,14 +23,6 @@ Tenho interesse em arquitetura de software, qualidade de código e desenvolvimen
 **Frontend:** Angular, Blazor, TypeScript, JavaScript  
 **Banco de dados:** SQL Server, PostgreSQL  
 **Outros:** APIs REST, Git, Scrum
-
-## Atualmente estudando
-
-- Arquitetura de Software
-- Domain-Driven Design (DDD)
-- Clean Architecture
-- SOLID
-- Design Patterns
 
 ## Contato
 
