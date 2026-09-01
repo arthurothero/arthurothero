@@ -1,40 +1,46 @@
-# Olá! Eu sou Arthur Othero 👋
+# Olá! Eu sou o Arthur Othero 👋
+
+**Desenvolvedor Full Stack | C# • .NET • Angular • Blazor**
 
 Sou desenvolvedor Full Stack e estudante de Engenharia de Software na UniBH.
 
-Atualmente, trabalho no desenvolvimento de aplicações web corporativas, atuando principalmente com C#, .NET, Blazor, Angular e bancos de dados relacionais.
+Atualmente, trabalho no desenvolvimento de aplicações web corporativas, atuando principalmente com **C#, .NET, Blazor, Angular e bancos de dados relacionais**.
 
-Tenho interesse em criar soluções eficientes, organizadas e escaláveis, sempre buscando evoluir meus conhecimentos em arquitetura de software e boas práticas de desenvolvimento.
+No dia a dia, tenho contato com desenvolvimento de APIs, regras de negócio, modelagem e manipulação de dados, manutenção de sistemas e construção de novas funcionalidades.
+
+Busco evoluir principalmente em **arquitetura de software, qualidade de código e desenvolvimento de aplicações escaláveis**, aplicando conceitos como Clean Code, SOLID e Domain-Driven Design.
 
 ## 💻 Tecnologias e ferramentas
 
-- C#
-- .NET
-- ASP.NET Core
-- Blazor
-- Angular
-- SQL Server
-- PostgreSQL
-- Entity Framework
-- APIs REST
-- Git
-- Scrum
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,postgres,git" />
+</p>
+
+**Backend:** C#, .NET, ASP.NET Core, Entity Framework  
+**Frontend:** Angular, Blazor, TypeScript, JavaScript  
+**Banco de dados:** SQL Server, PostgreSQL  
+**Outros:** APIs REST, Git, Scrum
 
 ## 📚 Atualmente estudando
 
 - Arquitetura de Software
 - Domain-Driven Design (DDD)
-- Clean Code
-- Desenvolvimento de APIs REST
-- Boas práticas e padrões de projeto
+- Clean Architecture
+- SOLID
+- Design Patterns
+- Boas práticas no desenvolvimento de APIs
 
-## 🎯 Objetivos
+## 🚀 Projetos
 
-- Aprimorar minhas habilidades como desenvolvedor Full Stack
-- Desenvolver aplicações robustas e escaláveis
-- Aplicar boas práticas de arquitetura e qualidade de código
-- Contribuir para projetos que gerem impacto real
+Estou utilizando este GitHub para documentar minha evolução como desenvolvedor e construir projetos focados em:
 
-## 📫 Contato
+- APIs REST com .NET
+- Arquitetura em camadas / Clean Architecture
+- Angular integrado com APIs
+- Autenticação e autorização
+- Testes automatizados
+- Projetos Full Stack
 
-- LinkedIn: [linkedin.com/in/arthurfekete](https://www.linkedin.com/in/arthurfekete)
+## 🌐 Me encontre por aí
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Othero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurfekete/)
