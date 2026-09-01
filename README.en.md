@@ -15,8 +15,6 @@ I'm continuously improving my knowledge of software architecture, code quality a
 
 **Open to Full Stack Developer / .NET opportunities.**
 
----
-
 ## Tech Stack
 
 <p>
@@ -36,8 +34,6 @@ I'm continuously improving my knowledge of software architecture, code quality a
 **Databases:** SQL Server · PostgreSQL  
 **Other:** REST APIs · Git · Scrum
 
----
-
 ## Professional Highlights
 
 - **Full Stack Development** — development of features for corporate web applications using .NET, Angular and Blazor.
@@ -45,22 +41,6 @@ I'm continuously improving my knowledge of software architecture, code quality a
 - **Databases** — creation and maintenance of queries, data manipulation and integration with relational databases.
 - **System Maintenance and Evolution** — bug fixes, improvements to existing features and development of new application flows.
 - **Front-end / Back-end Integration** — working across different application layers, from user interfaces to data persistence.
-
----
-
-## Areas of Interest
-
-I'm particularly interested in:
-
-- Full Stack Development
-- Backend Development with .NET
-- Software Architecture
-- APIs and Integrations
-- Clean Code and Software Best Practices
-- Enterprise Applications
-- Scalable Application Development
-
----
 
 ## Contact
 
