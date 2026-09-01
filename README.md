@@ -52,8 +52,6 @@ Tenho interesse principalmente em:
 - Sistemas corporativos
 - Desenvolvimento de aplicações escaláveis
 
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Othero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurfekete/)
