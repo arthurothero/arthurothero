@@ -13,10 +13,6 @@ No dia a dia, trabalho com implementação de novas funcionalidades, regras de n
 
 Tenho buscado aprofundar meus conhecimentos em **arquitetura de software, qualidade de código e desenvolvimento de aplicações robustas, organizadas e escaláveis**.
 
-**Disponível para oportunidades como Desenvolvedor Full Stack / .NET**, com interesse em ambientes onde eu possa continuar evoluindo tecnicamente e contribuir em projetos reais.
-
----
-
 ## Tech Stack
 
 <p>
@@ -36,8 +32,6 @@ Tenho buscado aprofundar meus conhecimentos em **arquitetura de software, qualid
 **Banco de dados:** SQL Server · PostgreSQL  
 **Outros:** APIs REST · Git · Scrum
 
----
-
 ## Experiência em destaque
 
 - **Desenvolvimento Full Stack** — implementação de funcionalidades em aplicações web corporativas utilizando .NET, Angular e Blazor.
@@ -45,8 +39,6 @@ Tenho buscado aprofundar meus conhecimentos em **arquitetura de software, qualid
 - **Banco de dados** — criação e manutenção de consultas, manipulação de dados e integração com bancos relacionais.
 - **Manutenção e evolução de sistemas** — correção de problemas, melhorias em funcionalidades existentes e desenvolvimento de novos fluxos.
 - **Integração Front-end / Back-end** — atuação em diferentes camadas da aplicação, desde interface até persistência de dados.
-
----
 
 ## Áreas de interesse
 
