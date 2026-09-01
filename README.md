@@ -40,18 +40,6 @@ Tenho buscado aprofundar meus conhecimentos em **arquitetura de software, qualid
 - **Manutenção e evolução de sistemas** — correção de problemas, melhorias em funcionalidades existentes e desenvolvimento de novos fluxos.
 - **Integração Front-end / Back-end** — atuação em diferentes camadas da aplicação, desde interface até persistência de dados.
 
-## Áreas de interesse
-
-Tenho interesse principalmente em:
-
-- Desenvolvimento Full Stack
-- Backend com .NET
-- Arquitetura de Software
-- APIs e integrações
-- Clean Code e boas práticas
-- Sistemas corporativos
-- Desenvolvimento de aplicações escaláveis
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Othero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurfekete/)
